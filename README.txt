@@ -6,4 +6,4 @@ $ pacman -S mingw-w64-x86_64-python3-numpy
 $ sudo apt-get install python3
 $ sudo apt-get install python3-numpy
 $ sudo apt-get install python3-matplotlib
-$ sudo apt-get install texlive dvipng	# 可选的, 如果matplotlib中需要用到latex
+$ sudo apt-get install texlive texlive-latex-extra texlive-fonts-recommended dvipng	# 可选的, 如果matplotlib中需要用到latex
