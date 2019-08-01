@@ -14,7 +14,13 @@ b.搜索 matplotlib 字体的安装位置
 $ locate -b '\mpl-data'
 # 会得到这个路径/usr/share/matplotlib/mpl-data下面有fonts/ttf这个目录, 进入这个目录i, 把刚才下载的simhei.ttf 
 # 字体复制到这个目录下, 注意权限和归属是否与其它字体一致
+https://blog.csdn.net/jeff_liu_sky_/article/details/54023745
 
 4) ubuntu下matplotlib支持latex渲染: 
 $ sudo apt-get install texlive texlive-latex-extra texlive-fonts-recommended dvipng	# 可选的, 如果matplotlib中需要用到latex
 
+5) windows下matplotlib支持latex渲染:
+a.下载地址：http://mirror.ctan.org/systems/texlive/Images/
+b.执行 install-tl-windows.bat 或者 install-tl-advanced.bat开始安装
+c.将texlive的bin目录加到PATH环境变量
+https://blog.csdn.net/wr339988/article/details/66611166

@@ -47,5 +47,3 @@ plt.title("不同果酱面包配料比例表的比例")
 
 plt.show()
 
-
-plt.show()
