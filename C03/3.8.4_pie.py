@@ -2,7 +2,6 @@
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-import numpy as np
 
 mpl.rcParams["font.sans-serif"] = ["SimHei"]
 mpl.rcParams["axes.unicode_minus"] = False
