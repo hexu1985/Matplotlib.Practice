@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import __init__
 
 # normal plot
 plt.axes([0.1,0.7,.3,.3], frameon=True,facecolor='y',aspect="equal")
