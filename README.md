@@ -9,6 +9,7 @@
     $ sudo apt-get install python3
     $ sudo apt-get install python3-matplotlib
     $ sudo apt-get install python3-numpy
+    $ sudo apt-get install python3-scipy
     ```
 
 2. ubuntu下中文乱码问题:
@@ -36,6 +37,7 @@
     $ pacman -S mingw-w64-x86_64-python3
     $ pacman -S mingw-w64-x86_64-python3-matplotlib
     $ pacman -S mingw-w64-x86_64-python3-numpy
+    $ pacman -S mingw-w64-x86_64-python3-scipy
     ```
 
 2. windows下matplotlib支持latex渲染:
